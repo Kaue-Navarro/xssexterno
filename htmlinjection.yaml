@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea>{{7*7}}<marquee>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea>">
 paths:
   /accounts:
     get:
