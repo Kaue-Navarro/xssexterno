@@ -1,4 +1,4 @@
-swagger: '2.0'
+swagger: '1.2'
 info:
   title: Example yaml.spec
   description: |
